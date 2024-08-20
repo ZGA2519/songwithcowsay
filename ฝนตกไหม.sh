@@ -42,7 +42,7 @@ if command -v cowsay &> /dev/null; then
     cowsay "ในคืนที่ฝนโปรยลงมา"
     sleep 5.5
     clear
-    cowsay "(⸝⸝⸝>﹏<⸝⸝⸝)"
+    cowsay "Song by Three Man Down, dev by orgprk"
     echo fin
     sleep 5
 else
