@@ -1,4 +1,9 @@
-if command -v cowsay &> /dev/null; then
+# Song: ฝนตกไหม
+# Author: Three Man Down
+# IG: https://www.instagram.com/orgprk
+# Tiktok: https://www.tiktok.com/@orgprk
+
+if command -v cowsay >/dev/null 2>&1; then
     clear
     cowsay "(⸝⸝⸝>﹏<⸝⸝⸝)"
     sleep 1
