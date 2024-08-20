@@ -1,5 +1,6 @@
 # Song: ฝนตกไหม
 # Author: Three Man Down
+# Written script: orgprk
 # IG: https://www.instagram.com/orgprk
 # Tiktok: https://www.tiktok.com/@orgprk
 
